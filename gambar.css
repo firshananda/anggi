@@ -1,0 +1,12 @@
+body {
+    background-color: #689bfa; /* pink pastel */
+    color: #333333; /* warna teks umum (abu-abu gelap) */
+}
+
+h1, h2 {
+    color: #f9feff; /* ungu */
+}
+p{
+    font: 1em sans-serif;
+    color: rgb(56, 49, 49);
+}
